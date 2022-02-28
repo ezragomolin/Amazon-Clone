@@ -10,7 +10,7 @@ function Home() {
             <img className="home_image" src="https://m.media-amazon.com/images/I/61DUO0NqyyL._SX3000_.jpg"/>
     {/*Product Rows*/}
         <div className ="home_row1">
-            <Product id="123" title="Iphone 13 Pro 64GB by Apple, Brand new with facotry seal!" price={999.99} image="https://www.apple.com/v/iphone-13-pro/e/images/key-features/compare/compare_iphone_13_pro__f3oxtnx5ooyi_large_2x.jpg" rating={4} />
+            <Product id="123" title="Iphone 13 Pro 64GB by Apple, Brand new with facotry seal (great deal)!" price={999.99} image="https://www.apple.com/v/iphone-13-pro/e/images/key-features/compare/compare_iphone_13_pro__f3oxtnx5ooyi_large_2x.jpg" rating={4} />
             <Product id="1234" title="Apple watch series 3 by Apple, Brand new with facotry seal!" price={359.99} image="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/42-alu-silver-sport-white-nc-s3-grid?wid=540&hei=550&fmt=jpeg&qlt=80&.v=1594259786000" rating={3}  />
             <Product id="12345" title="Homepod mini speaker by Apple, Brand new with facotry seal!" price={89.99} image="https://www.apple.com/v/homepod-mini/f/images/overview/sound_homepod_white__e5a2pshb9l26_large_2x.png" rating={5} />
         </div>
