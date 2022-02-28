@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Home.css"
 import Product from "./Product"
+import Checkout from "./Checkout"
 
 function Home() {
   return (
